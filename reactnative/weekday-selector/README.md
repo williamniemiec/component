@@ -1,11 +1,11 @@
-![logo](https://github.com/williamniemiec/components/blob/master/src/reactnative/weekday-selector/docs/img/logo/logo.jpg)
+![](https://github.com/wniemiec-components-reactnative/weekday-selector/blob/master/docs/img/logo/logo.jpg)
 
 <h1 align='center'>Weekday selector</h1>
 <p align='center'>Component that lets you select days of the week.</p>
 <p align="center">
 	<a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React Native-0.60+-D0008F.svg" alt="React Native compatibility"></a>
-	<a href="https://www.npmjs.com/package/@wniemiec-component-reactnative/weekday-selector"><img src="https://img.shields.io/npm/v/@wniemiec-component-reactnative/weekday-selector" alt="Release"></a>
-	<a href="https://github.com/williamniemiec/components/blob/master/reactnative/weekday-selector/LICENSE"><img src="https://img.shields.io/github/license/williamniemiec/components/master/reactnative/weekday-selector" alt="License"></a>
+	<a href="https://github.com/wniemiec-components-reactnative/weekday-selector/releases"><img src="https://img.shields.io/github/v/release/wniemiec-components-reactnative/weekday-selector" alt="Release"></a>
+	<a href="https://github.com/wniemiec-components-reactnative/weekday-selector/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wniemiec-components-reactnative/weekday-selector" alt="License"></a>
 </p>
 <hr />
 
@@ -15,7 +15,7 @@ React Native component that lets you select days of the week.
 ## ❓ How to use
 1. Install the component
 ```
-$ npm install --save @wniemiec-component-reactnative/weekday-selector
+$ npm install --save @wniemiec.component.reactnative/weekday-selector
 ```
 
 2. Import the component
@@ -39,15 +39,6 @@ function handleWeekDay(weekday, selected) {
 [...]
 ```
 
-## 🖼 Gallery
-
-![img1](https://github.com/williamniemiec/components/blob/master/src/reactnative/weekday-selector/docs/img/img1.jpg)
-
-![img2](https://github.com/williamniemiec/components/blob/master/src/reactnative/weekday-selector/docs/img/img2.jpg)
-
-![img3](https://github.com/williamniemiec/components/blob/master/src/reactnative/weekday-selector/docs/img/img3.jpg)
-
-
 ## 📖 Documentation
 |        Property        |Type|Description|Default|
 |----------------|-------------------------------|-----------------------------|--------|
@@ -56,7 +47,7 @@ function handleWeekDay(weekday, selected) {
 |selectedOps |`array: number`|Pre-selected weekdays |`[]`|
 
 ## 🤝 Contribute!
-See the documentation on how you can contribute to the project [here](https://github.com/williamniemiec/components/blob/master/CONTRIBUTING.md).
+See the documentation on how you can contribute to the project [here](https://github.com/wniemiec-components-reactnative/weekday-selector/blob/master/CONTRIBUTING.md).
 
 ## 📁 Files
 
