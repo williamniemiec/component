@@ -4,3 +4,27 @@
 [submodule "reactnative/selectable-button"]
 	path = reactnative/selectable-button
 	url = https://github.com/wniemiec-component-reactnative/selectable-button.git
+[submodule "reactnative/transparent-button"]
+	path = reactnative/transparent-button
+	url = https://github.com/wniemiec-component-reactnative/transparent-button
+[submodule "reactnative/remaining-time"]
+	path = reactnative/remaining-time
+	url = https://github.com/wniemiec-component-reactnative/remaining-time
+[submodule "reactnative/month-picker"]
+	path = reactnative/month-picker
+	url = https://github.com/wniemiec-component-reactnative/month-picker
+[submodule "reactnative/modal"]
+	path = reactnative/modal
+	url = https://github.com/wniemiec-component-reactnative/modal
+[submodule "reactnative/legend"]
+	path = reactnative/legend
+	url = https://github.com/wniemiec-component-reactnative/legend
+[submodule "reactnative/full-tooltip"]
+	path = reactnative/full-tooltip
+	url = https://github.com/wniemiec-component-reactnative/full-tooltip
+[submodule "reactnative/day-picker"]
+	path = reactnative/day-picker
+	url = https://github.com/wniemiec-component-reactnative/day-picker
+[submodule "reactnative/action-button"]
+	path = reactnative/action-button
+	url = https://github.com/wniemiec-component-reactnative/action-button
