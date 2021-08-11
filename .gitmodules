@@ -7,9 +7,6 @@
 [submodule "reactnative/transparent-button"]
 	path = reactnative/transparent-button
 	url = https://github.com/wniemiec-component-reactnative/transparent-button
-[submodule "reactnative/remaining-time"]
-	path = reactnative/remaining-time
-	url = https://github.com/wniemiec-component-reactnative/remaining-time
 [submodule "reactnative/month-picker"]
 	path = reactnative/month-picker
 	url = https://github.com/wniemiec-component-reactnative/month-picker
@@ -28,3 +25,6 @@
 [submodule "reactnative/action-button"]
 	path = reactnative/action-button
 	url = https://github.com/wniemiec-component-reactnative/action-button
+[submodule "react/remaining-time"]
+	path = react/remaining-time
+	url = https://github.com/wniemiec-component-react/remaining-time
