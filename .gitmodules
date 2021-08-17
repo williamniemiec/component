@@ -28,3 +28,9 @@
 [submodule "react/remaining-time"]
 	path = react/remaining-time
 	url = https://github.com/wniemiec-component-react/remaining-time
+[submodule "java/junit4-runner"]
+	path = java/junit4-runner
+	url = https://github.com/wniemiec-component-java/junit4-runner
+[submodule "java/jdb"]
+	path = java/jdb
+	url = https://github.com/wniemiec-component-java/jdb
